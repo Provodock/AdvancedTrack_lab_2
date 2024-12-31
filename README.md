@@ -68,6 +68,6 @@
 
 **Клонуйте репозиторій**:
    ```bash
-   git clone https://github.com/username/java-advanced-lab2.git
+   git clone https://github.com/Provodock/AdvancedTrack_lab_2
    ```
 
